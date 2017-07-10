@@ -8,7 +8,7 @@ def setUp():
   print("Did we make a github program that can be run somewhere?")
   
   print("This was typed in test branch @1:10 pm-ish")
-  
+  print("what the fuck from command line")  
   print(""); print("***************************************"); print("")
   
 # ------------------------------------------------------------------------
