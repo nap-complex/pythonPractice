@@ -1,6 +1,6 @@
-# pythonPractice
-getthing the flow of the snake
-This reposistory is for running through everything we can find on python
+# pythonPractice - July 2017
 
-This is a edit pracice to learn about branching.
+This folder is a git folder connected to github.
 
+We own the github master and are using this as practice for both
+python and git / github.
