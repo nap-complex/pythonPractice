@@ -11,6 +11,7 @@ def setUp():
 
   print("what the fuck from command line")  
 
+  print("added from new folder for testing 20170808ish")
   print("Random change from jonnyProgrammer side.")
   
   print(""); print("***************************************"); print("")
