@@ -16,6 +16,8 @@ def setUp():
 
   print("first commit from antmac")
   
+  print("first commit from macToFar")
+
   print(""); print("***************************************"); print("")
   
 # ------------------------------------------------------------------------
