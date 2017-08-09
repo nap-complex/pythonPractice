@@ -13,6 +13,8 @@ def setUp():
 
   print("added from new folder for testing 20170808ish")
   print("Random change from jonnyProgrammer side.")
+
+  print("first commit from antmac")
   
   print(""); print("***************************************"); print("")
   
