@@ -9,9 +9,8 @@ def setUp():
   
   print("This was typed in test branch @1:10 pm-ish")
 
-  print("what the fuck from command line")  
-
   print("added from new folder for testing 20170808ish")
+
   print("Random change from jonnyProgrammer side.")
 
   print("first commit from antmac")
